@@ -1,0 +1,5 @@
+{
+  "name": "eve-nebula",
+  "owner": { "name": "kocayinsec" },
+  "plugins": [{ "name": "eve-nebula", "source": "./" }]
+}

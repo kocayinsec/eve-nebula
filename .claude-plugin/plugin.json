@@ -1,0 +1,6 @@
+{
+  "name": "eve-nebula",
+  "version": "0.6.0",
+  "description": "A violet New Eden look: a drifting nebula, a ringed planet whose capacitor ring shows the context left, and the assistant’s words in light orange.",
+  "types": "./types/index.d.ts"
+}
